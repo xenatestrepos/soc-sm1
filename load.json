@@ -1,0 +1,27 @@
+{
+  "files": [
+	"src/gpio/ck_gpio_xt_geh0_params.v",
+	"src/gpio/ck_gpio_xt_geh0.v",
+	"src/gpio/gpio.v",
+	"src/gpio/ck_gpio_xt_geh0_undef.v",
+	"src/generic_cells/and2_gea1.v",
+	"src/generic_cells/buf_gea1.v",
+	"src/generic_cells/delay_gea0.v",
+	"src/generic_cells/delay_geb0.v",
+	"src/generic_cells/inv_gea1.v",
+	"src/generic_cells/mux_n2x1_gea0.v",
+	"src/generic_cells/mux_n4x1_aua0.v",
+	"src/generic_cells/mux_nmx1_gea0.v",
+	"src/generic_cells/nand2_gea1.v",
+	"src/generic_cells/nor2_gea1.v",
+	"src/generic_cells/or2_gea0.v",
+	"src/generic_cells/orx_gea0.v"
+  ],
+  "defines": [
+        {
+          "name": "ENA_OBSERVER",
+          "value": "1"
+        }
+  ]
+}
+
